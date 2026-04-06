@@ -3,6 +3,10 @@
 A minimal web app to track daily habits and build consistency
 
 ---
+## Tech Stack
+- Frontend => React
+- Server => Express
+- Database => Mongodb
 
 ## ✅ Feature TODO
 
