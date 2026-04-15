@@ -20,10 +20,10 @@ Features planned for the app are listed below; check boxes track progress.
 
 ### 🔐 Authentication
 
-* [ ] User signup
-* [ ] User login
-* [ ] JWT authentication
-* [ ] Protected routes
+* [x] User signup
+* [x] User login
+* [x] JWT authentication
+* [x] Protected routes
 
 ### 📝 Habit Management
 
